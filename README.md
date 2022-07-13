@@ -8,7 +8,7 @@ Few-shot Font Generation with Localized Style Representations and Factorization 
 하지만 cmap에서 아래의 그림처럼 네모박스로 잡혀있는 cmap은 추출 하지 못합니다.
 
 ![이미지 예시](./font_char_img/arial%201.png)
-![이미지 예시2](./font_char_img/arial%201.png)
+![이미지 예시2](./font_char_img/gulim.png)
 
 
 
