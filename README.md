@@ -7,12 +7,15 @@ Few-shot Font Generation with Localized Style Representations and Factorization 
 에서 제공하는 "get_chars_from_ttf.py"소스는 ttf파일에서 cmap을 참조합니다.
 하지만 cmap에서 아래의 그림처럼 네모박스로 잡혀있는 cmap은 추출 하지 못합니다.
 
-[이미지 예시](./font_char_img/arial%201.png)
-[이미지 예시2](./font_char_img/arial%201.png)
+![이미지 예시](./font_char_img/arial%201.png)
+![이미지 예시2](./font_char_img/arial%201.png)
 
 
 
 하지만 지원하는 글리프를 한번에 확인 할 수 없었다.
+
+-------------------
+step 1
 
 
 -----------------------
