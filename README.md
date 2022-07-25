@@ -14,8 +14,20 @@ Few-shot Font Generation with Localized Style Representations and Factorization 
 
 하지만 지원하는 글리프를 한번에 확인 할 수 없었다.
 
+ttf파일의 pillow 데이터 확인용
+
+
+-----
+데이터셋은 
+default -> './font'에 .ttf파일을 둡니다.
+target_char는 pillow로 프린터 하고 싶은 이미지입니다.
+
+
 -------------------
-step 1
+step 1 
+
+
+
 
 
 -----------------------
